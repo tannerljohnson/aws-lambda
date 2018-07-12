@@ -1,0 +1,23 @@
+{
+  "name": "linux",
+  "version": "1.0.0",
+  "description": "linux binaries for lambda",
+  "main": "index.js",
+  "dependencies": {
+    "parquetjs": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannerljohnson/aws-lambda.git"
+  },
+  "author": "tannerljohnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannerljohnson/aws-lambda/issues"
+  },
+  "homepage": "https://github.com/tannerljohnson/aws-lambda#readme"
+}
