@@ -1,0 +1,15 @@
+{
+  "name": "awsscripts",
+  "version": "1.0.0",
+  "description": "test pkg",
+  "main": "index.js",
+  "dependencies": {
+    "parquetjs": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tannerljohnson",
+  "license": "ISC"
+}
